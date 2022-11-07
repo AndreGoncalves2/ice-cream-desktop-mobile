@@ -136,6 +136,10 @@ footer {
     position: relative;
     display: flex;
   }
+  
+  .desk-card {
+    display: initial;
+  }
 
   header::before {
     display: none;
